@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "timestamp": "2026-06-14T16:09:51.803Z",
+  "changeType": "refactor",
+  "activity": {
+    "activeTimeSeconds": 3015,
+    "fileChangeEvents": 427,
+    "keystrokes": 0
+  },
+  "files": {
+    "totalChangedFiles": 325,
+    "extensions": {
+      ".dart": 3,
+      "unknown": 243,
+      ".txt": 2,
+      ".json": 3,
+      ".sh": 1,
+      ".xcconfig": 1,
+      ".md": 41,
+      ".podspec": 1,
+      ".log": 5,
+      ".ldb": 3,
+      ".tisxdx": 1,
+      ".u8jf17": 1,
+      ".old": 18,
+      ".bf": 1,
+      ".html": 1
+    }
+  },
+  "workspaceId": "L1VzZXJzL2FsZG8vRG9jdW1lbnRzL3Byb2plY3RzL3RpY2tldF9yaXNl"
+}
