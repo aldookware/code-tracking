@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "timestamp": "2026-06-14T15:51:13.984Z",
+  "changeType": "refactor",
+  "activity": {
+    "activeTimeSeconds": 1897,
+    "fileChangeEvents": 314,
+    "keystrokes": 0
+  },
+  "files": {
+    "totalChangedFiles": 260,
+    "extensions": {
+      ".dart": 2,
+      "unknown": 191,
+      ".txt": 2,
+      ".json": 7,
+      ".xcconfig": 1,
+      ".sh": 1,
+      ".md": 54,
+      ".podspec": 1,
+      ".html": 1
+    }
+  },
+  "workspaceId": "L1VzZXJzL2FsZG8vRG9jdW1lbnRzL3Byb2plY3RzL3RpY2tldF9yaXNl"
+}
